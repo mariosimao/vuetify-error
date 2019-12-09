@@ -30,4 +30,4 @@ As you can see, the sidebar works as expected.
 
 4. Go back to your browser, the sidebar crashed. It is failing to access
 `Vue.$vuetify.application` and `Vue.$vuetify.breakpoint` because
-`Vue.$vuetify` is undefined.
+`Vue.$vuetify` is undefined. You can see all the errors on the console.
